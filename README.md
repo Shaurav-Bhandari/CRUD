@@ -11,7 +11,7 @@ Clone or download the repository to your local machine using Git:
 ```bash
 git clone https://github.com/your-username/vehicle-registration-crud.git
 ```
-###2. Import Database
+### 2. Import Database
 Before proceeding with this step, ensure that you have MySQL installed on your system and the MySQL command line tools are accessible.
 
 Navigate to the directory where you have cloned or downloaded the repository containing the SQL file (database.sql).
@@ -44,7 +44,7 @@ Save the changes to the db.php file.
 
 Now, your application is configured to connect to your MySQL database.
 
-###4. Check PHP Configuration
+### 4. Check PHP Configuration
 Ensure that PHP is configured correctly with the MySQLi extension enabled. Check your php.ini file and make sure that extension=mysqli is uncommented.
 
 ###5. Start Web Server
@@ -54,14 +54,14 @@ Start your web server (e.g., Apache) and navigate to the project URL in your web
 
 Your vehicle registration CRUD application should now be ready for use.
 
-###Usage
+### Usage
 Access the application in your web browser by navigating to its URL.
 
 Use the registration form to register new vehicles.
 
 View, update, or delete existing vehicle registrations from the list.
 
-###License
+### License
 This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or encounter any issues during the installation process.

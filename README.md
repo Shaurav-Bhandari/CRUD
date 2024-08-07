@@ -24,7 +24,7 @@ Replace username with your MySQL username and database_name with the name of the
 
 Once the import is successful, the necessary tables for the vehicle registration application will be created in your database.
 
-###3. Configure Database Connection
+### 3. Configure Database Connection
 Now, you need to configure the database connection settings in the db.php file.
 
 Navigate to the project directory and locate the db.php file. Open it in a text editor.

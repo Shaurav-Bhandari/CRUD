@@ -47,7 +47,7 @@ Now, your application is configured to connect to your MySQL database.
 ### 4. Check PHP Configuration
 Ensure that PHP is configured correctly with the MySQLi extension enabled. Check your php.ini file and make sure that extension=mysqli is uncommented.
 
-###5. Start Web Server
+### 5. Start Web Server
 Place the project files in your web server's document root directory (e.g., htdocs for XAMPP).
 
 Start your web server (e.g., Apache) and navigate to the project URL in your web browser.
